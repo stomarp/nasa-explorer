@@ -44,7 +44,7 @@ Built as a Web Engineering project — focusing on API integration, UI developme
 
 | Area                | Member(s) Responsible              | Deliverables                                                |
 | ------------------- | ---------------------------------- | ----------------------------------------------------------- |
-| Backend / API       | Khushi + Ashlesha                  | `lib/nasa.ts`, `/api/apod` route                            |
+| Backend / API       | Swati + Ashlesha                  | `lib/nasa.ts`, `/api/apod` route                            |
 | Frontend / UI       | Daniel                             | `/apod` form page + loading/error states                    |
 | Testing             | Swati + Khushi                     | Unit test for `fetchApod`, integration test for `/api/apod` |
 | TypeScript Setup    | Swati                              | `/types` folder + interfaces                                |
